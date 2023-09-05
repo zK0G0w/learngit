@@ -2,3 +2,4 @@ readme.txt
 Git is a distributed version control system.
 Git is free software.
 Git is important to learn.
+Git is free software distributed under the GPL
