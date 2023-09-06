@@ -5,4 +5,4 @@ Git is important to learn.
 Git is free software distributed under the GPL
 Git has a mutable index called stage.
 Git tracks changes of files.
-Now is working on the dev branch.
+Creating a new branch is quick & simple.
